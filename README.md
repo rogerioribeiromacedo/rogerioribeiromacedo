@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi 👋
 
+My name is Rogério Ribeiro Macêdo. I'm an undergraduate student in Chemistry Education at the Federal University of Itajubá (@unifei_oficial). I'm an undergraduate researcher in a Computational Chemistry project at LaQC (Laboratory of Computational Chemistry, @laqc_unifei), where I develop Python scripts and conduct molecular dynamics simulations using GROMACS.
+
+## Interest
+
+I have a great interest in Neuroscience, but at this moment, I am only reading about this subject.
+
+## Contacts
+
+rogerioribeiromacedo@unifei.edu.br
+rogerioribeiromacedo@gmail.com
 <!--
 **rogerioribeiromacedo/rogerioribeiromacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
