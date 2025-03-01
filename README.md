@@ -15,8 +15,8 @@ I started a project called "Química na Caixinha" ([@quimicanacaixinha](https://
 
 ## :e-mail: Contacts
 
-rogerioribeiromacedo@unifei.edu.br
-rogerioribeiromacedo@gmail.com
+- rogerioribeiromacedo@unifei.edu.br
+- rogerioribeiromacedo@gmail.com
 <!--
 **rogerioribeiromacedo/rogerioribeiromacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
