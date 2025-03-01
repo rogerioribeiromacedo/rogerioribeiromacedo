@@ -11,7 +11,7 @@ My name is Rogério Ribeiro Macêdo. I'm an undergraduate student in Chemistry E
 
 ## :sparkle: Project
 
-I started a project called "Química na Caixinha" ([@quimicanacaixinha](https://www.instagram.com/quimicanacaixinha/)) on Instagram. The idea is to add molecular models created with Blender and technical information about the structure. It is still in the development phase.
+I started a project called "Química na Caixinha" ([@quimicanacaixinha](https://www.instagram.com/quimicanacaixinha/)) on Instagram. The idea is to add molecular models created with Blender and chemical information about the structure. It is still in the development phase. At this moment, the project is focused on a Portuguese-speaking public.
 
 ## :e-mail: Contacts
 
